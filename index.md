@@ -6,3 +6,7 @@
 ###### i have taken index.md file which was initially empty experimented with headers in the process learning a new feature about github
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` javascript
+var myVar = "Hello, world!";
+```
